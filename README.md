@@ -7,7 +7,7 @@ Perlin Noise flow field by The Coding Train, converting the code from JavaScript
 [Li Chloe](https://www.youtube.com/watch?v=rHKxlgcg1-E&ab_channel=LiChloe)
 
 ## Images
-![Perlin Noise 1](images/PerlinNoise1.jpeg)
+![Perlin Noise 1](images/PerlinNoise1.jpg)
 ![Perlin Noise 2](images/PerlinNoise2.gif)
 ![Perlin Noise 3](images/PerlinNoise3.gif)
 ![Perlin Noise 4](images/PerlinNoise4.gif)
